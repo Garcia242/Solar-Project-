@@ -1,0 +1,89 @@
+#Gravitational Constant SI
+6.6743e-11
+#Earth Mass Conversion 
+5.972e24
+# AU conversion
+1.496e+11
+# sun data
+# name
+sun
+# mass M⊕
+332946
+# orbital radius AU
+0.01
+# colour
+y
+# planet data
+# mercury data
+# name
+mercury
+# mass M⊕
+0.06
+# orbital radius AU
+0.387
+# colour
+g
+# venus data
+# name
+venus
+# mass M⊕
+0.82
+# orbital radius AU
+0.723
+# colour
+m
+# earth data
+# name
+earth
+# mass M⊕
+1
+# orbital radius AU
+1.0
+# colour
+b
+# mars data
+# name
+mars
+# mass M⊕
+0.11
+# orbital radius AU
+1.524
+# colour
+r
+# outer planets
+# jupiter data
+# name
+jupiter
+# mass M⊕
+318
+# orbital radius AU
+5.2
+# colour
+k
+# saturn
+# name
+#saturn
+# mass M⊕
+#95
+# orbital radius AU
+#9.5
+# colour
+#pink
+# uranus
+# name
+#uranus
+# mass M⊕
+#14
+# orbital radius AU
+#19.2
+# colour
+#purple
+# neptune
+# name
+#neptune
+# mass M⊕
+#17
+# orbital radius AU
+#30.1
+# colour
+#blue
